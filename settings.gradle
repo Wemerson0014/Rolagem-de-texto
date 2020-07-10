@@ -1,0 +1,2 @@
+rootProject.name='Rolagem de texto'
+include ':app'
