@@ -40,6 +40,7 @@
             android:layout_height="wrap_content"
             android:lineSpacingExtra="@dimen/line_spacing"
             android:padding="@dimen/padding_regular"
+            android:autoLink="web"
             android:text="@string/article_text" />
 
 
