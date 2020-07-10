@@ -1,6 +1,8 @@
 # Rolagem de texto
 Codelab Android 01.3 - Rolagem de texto
 
-<img src="https://user-images.githubusercontent.com/39638014/87179925-f005c300-c2b5-11ea-836d-d333bed6b31b.jpg" width="400">
+
+# Resolução do desafio para inclusão de um button ao final do ScroolView
+<img src="https://user-images.githubusercontent.com/39638014/87180640-4f180780-c2b7-11ea-8d65-f69a47bdbc7b.jpg" width="400">
 
 
